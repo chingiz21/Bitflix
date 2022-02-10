@@ -1,1 +1,6 @@
-# bitflix
+# Bitflix
+
+Чистая верстка.
+
+- HTML
+- SASS
